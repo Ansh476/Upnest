@@ -1,0 +1,63 @@
+{
+  "appsToExplore": [
+    {
+      "name": "Unstop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIUi9GBexFS90vQTB_ZWcUzK4guhSfzgWJQ&s",
+      "link": "https://unstop.com/hackathons?oppstatus=open&domain=2&course=6&specialization=Information%20Technology&usertype=students&passingOutYear=2026&quickApply=true"
+    },
+    {
+      "name": "Devfolio",
+      "imageUrl": "https://devfolio.co/blog/content/images/2021/04/Artboard-7.png",
+      "link": "https://devfolio.co/hackathons"
+    },
+    {
+      "name": "HackerEarth",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*_qEyZ2IU41N3LwrWXV43qg.jpeg",
+      "link": "https://www.hackerearth.com/challenges/hackathon/"
+    },
+    {
+      "name": "Devpost",
+      "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/397/175/datas/gallery.jpg",
+      "link": "https://devpost.com/hackathons"
+    },
+    {
+      "name": "hack2skill",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbIxv9bbvY80mWETt3ojPR4w6hu8NT9SIcw&s",
+      "link": "https://hack2skill.com/#flagshipevents"
+    }
+  ],
+  "oddSemHackathons": [
+    {
+      "name": "Smart India Hackathon",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqHGoT9kQyNLN5Fh68XMC4VRcg07jciKZ2ikn1IYB7oQd3dBQF1TzNc9NGpNZJPo0D20&usqp=CAU",
+      "viewDetails": "https://www.sih.gov.in/"
+    },
+    {
+      "name": "MumbaiHacks",
+      "imageUrl": "https://cdn.prod.website-files.com/643902018e0082f47e21a210/667ebc587d2a007c7bac4723_Team%20events%20website%20thumbnail-03.jpg",
+      "viewDetails": "https://mumbaihacks.com/"
+    },
+    {
+      "name": "EthIndia Hackathon",
+      "imageUrl": "https://assets.devfolio.co/hackathons/becdb269b9ea4e708c7d96329563e478/assets/cover/239.png",
+      "viewDetails": "https://ethindia2024.devfolio.co/"
+    }
+  ],
+  "evenSemHackathons": [
+    {
+      "name": "HackIndia",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33QtISXbTj84dmn3JSjc60Bk30q4GLK6OEQ&s",
+      "viewDetails": "https://hackindia.xyz/"
+    },
+    {
+      "name": "GDG Hackathon",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCZ3Q5hBQeRgWuYRzyMT1KnEZRmf-nZ0_sQ&s",
+      "viewDetails": "https://gdg.community.dev/events/details/google-gdg-on-campus-panipat-institute-of-engineering-technology-panipat-india-presents-gdg-hacks-2025/cohost-gdg-on-campus-dr-akhilesh-das-gupta-institute-of-professional-studies-delhi-india"
+    },
+    {
+      "name": "The Great Benguluru Hackathon",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxO46c4u9qcqa9Y0CRJR0xZSjqw2j3E6YqCg&s",
+      "viewDetails": "https://www.thegreatindianhackathon.com/bengaluru"
+    }
+  ]
+}

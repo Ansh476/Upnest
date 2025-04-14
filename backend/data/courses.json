@@ -1,0 +1,142 @@
+[
+    {
+      "skill": "python",
+      "courses": [
+        {
+          "_id": "67fc0rtyh87abd5wer4f001",
+          "title": "Python for Beginners",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-wjbA255BeaYpA4yOPoGy8qenPf2azDkNA&s",
+          "type":"Free",
+          "url": "https://www.udemy.com/course/python-for-complete-beginners-1/?srsltid=AfmBOooCfXTgNm3SxNkBAv3QHuZ_6XxAD9nLGQT7j_F8V28RA0lZf311"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f002",
+          "title": "Python for Data Science and Machine Learning Bootcamp",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRgan5498VHqwcBcbGCHr3apYymtoWh8OKQ&s",
+          "type":"Paid",
+          "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?srsltid=AfmBOooCfXTgNm3SxNkBAv3QHuZ_6XxAD9nLGQT7j_F8V28RA0lZf311"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f003",
+          "title": "Complete Python With DSA Bootcamp + LEETCODE Exercises",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QD2P3KRVb9oSYLs1Sjt_kQTHnEPQi1Ur6g&s",
+          "type":"Paid",
+          "url": "https://www.udemy.com/course/complete-python-dsa-bootcamp/?srsltid=AfmBOoqwZ9V3dyiEC_U1z6hMQPVZRgK8cO8_epZ56aF3XcBPBs9qsCt9&couponCode=LEARNNOWPLANS"
+        }
+      ]
+    },
+    {
+      "skill": "javascript",
+      "courses": [
+        {
+          "_id": "67fc0rtyh87abd5wer4f004",
+          "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYwDjk74qHw2NQ1YnIl3-hvkXTSOPL09qCw&s",
+          "type":"Paid",
+          "url": "https://www.udemy.com/course/the-complete-javascript-course/"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f005",
+          "title": "Javascipt One shot",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS87Ee054-dSWEM7rYlTQhw1EfAcYegvM5qcA&s",
+          "type":"Free",
+          "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg"
+        }
+      ]
+    },
+    {
+      "skill": "java",
+      "courses": [
+        {
+          "_id": "67fc0rtyh87abd5wer4f006",
+          "title": "Java Programming Masterclass for Software Developers",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfq6SuDIvcPJ4xd4O7aRnjcyLRc7opvjWsw&s",
+          "type":"Paid",
+          "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f007",
+          "title": "Java for Beginners",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkf24M6ZByxC1l9QrIWHRo3kZWNZ2z50jKbw&s",
+          "type":"Free",
+          "url": "https://www.coursera.org/specializations/java-programming"
+        }
+      ]
+    },
+    {
+      "skill": "c++",
+      "courses": [
+        {
+          "_id": "67fc0rtyh87abd5wer4f008",
+          "title": "C++ Tutorial for Complete Beginners",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlcS4v3Ig3mTU2jyP1CGXzO3D-EFdk5VjNA&s",
+          "type":"Free",
+          "url": "https://www.udemy.com/course/c-plus-plus-advanced/"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f009",
+          "title": "Mastering Data Structures & Algorithms(DSA) using C and C++",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Miui4tURdg93zj7mXx6mTR_VP6sL8WjvRA&s",
+          "type":"Paid",
+          "url": "https://www.udemy.com/course/datastructurescncpp/?couponCode=LEARNNOWPLANS"
+        }
+      ]
+    },
+    {
+      "skill":"machine learning",
+      "courses":[
+        {
+          "_id": "67fc0rtyh87abd5wer4f010",
+          "title":"Machine Learning A-Z™: Hands-On Python & R In Data Science",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9cRpk2otRf7cY5jyPnPcoGWJo6x5Czqbcg&s",
+          "type":"Paid",
+          "url":"https://www.udemy.com/course/machinelearning/"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f011",
+          "title":"Machine Learning by Stanford University",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL839fe4D9pAWbuMJIcOFyi3HCadD6ReQvUQ&s",
+          "type":"Free",
+          "url":"https://www.coursera.org/learn/machine-learning"
+        }
+      ]
+    },
+    {
+      "skills": ["web development", "mern stack"],
+      "courses":[
+        {
+          "_id": "67fc0rtyh87abd5wer4f012",
+          "title":"Complete Web Development Course",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0JCQCgLW6xVMjL1vPlX92VntjSUkFYbLY9g&s",
+          "type":"Paid",
+          "url":"https://www.udemy.com/course/web-dev-master/?couponCode=IND21PM"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f013",
+          "title": "The Complete Full-Stack Web Development Bootcamp",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5L5O7essPIa8N-2GQnE4KW4wpQkFUjNTKuw&s",
+          "type": "Paid",
+          "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.India&campaigntype=Search&portfolio=India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_160270535505_._ad_696202838334_._kw__._de_c_._dm__._pl__._ti_dsa-1677053911088_._li_9302184_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjwnui_BhDlARIsAEo9Gutt6jrMiT--N4FGQy_kZwzmp0eWY3EgI0v3gf4sYkuLR7-j_p0YiWsaAta2EALw_wcB&couponCode=IND21PM"
+        }
+      ]
+    },
+    {
+      "skill":"React",
+      "courses":[
+        {
+          "_id": "67fc0rtyh87abd5wer4f014",
+          "title":"Namaste React",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OKVzdNoPnqlNSFdMOgnZUQtJ1ImsIFibYw&s",
+          "type":"Paid",
+          "url":"https://namastedev.com/learn/namaste-react"
+        },
+        {
+          "_id": "67fc0rtyh87abd5wer4f015",
+          "title":"React Course - Beginner's Tutorial for React JavaScript Library",
+          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHt5mbteQxNtV4YTQahUfPvbxDJmc0VL7PUA&s",
+          "type":"Free",
+          "url":"https://www.youtube.com/watch?v=bMknfKXIFA8"
+        }
+      ]
+    }
+  ]
