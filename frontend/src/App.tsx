@@ -6,7 +6,7 @@ import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
 import Courses from './pages/Courses';
 import Hackathons from './pages/Hackathons';
-import MyCourses from './pages/Mycourses';
+import MyCourses from './pages/MyCourses';
 import ProfilePage from './pages/ProfilePage';
 
 const App: React.FC = () => {
